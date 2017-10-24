@@ -1,0 +1,4 @@
+
+start coins : 300
+start life  : 5
+

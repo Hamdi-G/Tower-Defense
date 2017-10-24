@@ -1,0 +1,8 @@
+F
+F,S
+S,S,F
+F,F,F,S
+F,S,F,F,S
+E,E,E,F,E,S,S
+S,F,S,F,E,F,S,S,S
+S,S,E,S,S,E,F,F,F,S,S
